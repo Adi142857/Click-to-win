@@ -15,4 +15,4 @@ Features of this game:
 
 - Hasty click matters is a game built with html,css and js. Give a star 🌟 if you like. Thanks!
 
--[!Game link](https://click-to-win-unisoft-adi.netlify.app/)
+-You can try [here](https://click-to-win-unisoft-adi.netlify.app/)
